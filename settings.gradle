@@ -1,0 +1,2 @@
+include ':TriangleDemo'
+rootProject.name = "Learn-OpenGL"
